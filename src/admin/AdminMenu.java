@@ -1,7 +1,5 @@
 package admin;
 
-import java.awt.EventQueue;
-
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
@@ -18,24 +16,24 @@ import java.awt.event.ActionEvent;
 
 public class AdminMenu extends JFrame {
 	private int menuWidth = 320;
-	private int menuHeight = 360;	
-	
+	private int menuHeight = 360;
+
 	private static final long serialVersionUID = 1L;
 
 	private JPanel contentPane;
 
-	public static void main(String[] args) {
-		EventQueue.invokeLater(new Runnable() {
-			public void run() {
-				try {
-					AdminMenu frame = new AdminMenu();
-					frame.setVisible(true);
-				} catch (Exception e) {
-					e.printStackTrace();
-				}
-			}
-		});
-	}
+//	public static void main(String[] args) {
+//		EventQueue.invokeLater(new Runnable() {
+//			public void run() {
+//				try {
+//					AdminMenu frame = new AdminMenu();
+//					frame.setVisible(true);
+//				} catch (Exception e) {
+//					e.printStackTrace();
+//				}
+//			}
+//		});
+//	}
 
 	public AdminMenu() {
 		setTitle("Admin Menu");
@@ -80,7 +78,7 @@ public class AdminMenu extends JFrame {
 		deleteDataButton.setFont(new Font("Tahoma", Font.PLAIN, 14));
 		deleteDataButton.setBounds(154, 115, 97, 33);
 		contentPane.add(deleteDataButton);
-		
+
 		JLabel editDataLabel = new JLabel("Edit Data");
 		editDataLabel.setFont(new Font("Tahoma", Font.PLAIN, 20));
 		editDataLabel.setBounds(35, 187, 129, 33);
@@ -88,10 +86,10 @@ public class AdminMenu extends JFrame {
 
 		JButton editDataButton = new JButton("Edit");
 		editDataButton.addActionListener(new ActionListener() {
-		    public void actionPerformed(ActionEvent arg0) {
-		        EditorMenu editData = new EditorMenu();
-		        editData.setVisible(true);
-		    }
+			public void actionPerformed(ActionEvent arg0) {
+				EditorMenu editData = new EditorMenu();
+				editData.setVisible(true);
+			}
 		});
 		editDataButton.setFont(new Font("Tahoma", Font.PLAIN, 14));
 		editDataButton.setBounds(154, 190, 97, 33);

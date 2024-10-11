@@ -15,18 +15,18 @@ public class PlaceMenu extends JFrame {
     private int menuHeight = 720;
     private JPanel contentPane;
     
-    public static void main(String[] args) {
-        EventQueue.invokeLater(new Runnable() {
-            public void run() {
-                try {
-                    PlaceMenu menuFrame = new PlaceMenu("Admin");
-                    menuFrame.setVisible(true);
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
-            }
-        });
-    }
+//    public static void main(String[] args) {
+//        EventQueue.invokeLater(new Runnable() {
+//            public void run() {
+//                try {
+//                    PlaceMenu menuFrame = new PlaceMenu("Admin");
+//                    menuFrame.setVisible(true);
+//                } catch (Exception e) {
+//                    e.printStackTrace();
+//                }
+//            }
+//        });
+//    }
 
     public PlaceMenu(String name) {
         setTitle("PlaceMenu");

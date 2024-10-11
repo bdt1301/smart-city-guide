@@ -34,18 +34,18 @@ public class DeleteData extends JFrame {
 	private String[] placeCategories = { "Health Facility", "Tourist Attraction", "Public Utilities",
 			"Hotel - Restaurant", "Educational Facility", "Shopping Location" };
 
-	public static void main(String[] args) {
-		EventQueue.invokeLater(new Runnable() {
-			public void run() {
-				try {
-					DeleteData frame = new DeleteData();
-					frame.setVisible(true);
-				} catch (Exception e) {
-					e.printStackTrace();
-				}
-			}
-		});
-	}
+//	public static void main(String[] args) {
+//		EventQueue.invokeLater(new Runnable() {
+//			public void run() {
+//				try {
+//					DeleteData frame = new DeleteData();
+//					frame.setVisible(true);
+//				} catch (Exception e) {
+//					e.printStackTrace();
+//				}
+//			}
+//		});
+//	}
 
 	public void deleteData(String category, String name) {
 		try {

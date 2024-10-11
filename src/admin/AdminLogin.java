@@ -1,6 +1,5 @@
 package admin;
 
-import java.awt.EventQueue;
 import java.awt.Image;
 
 import javax.swing.JFrame;
@@ -20,25 +19,25 @@ import java.awt.event.ActionEvent;
 public class AdminLogin extends JFrame {
 	private int menuWidth = 470;
 	private int menuHeight = 496;
-	
+
 	private static final long serialVersionUID = 1L;
 
 	private JPanel contentPane;
 	private JTextField usernameTextField;
 	private JPasswordField passwordField;
 
-	public static void main(String[] args) {
-		EventQueue.invokeLater(new Runnable() {
-			public void run() {
-				try {
-					AdminLogin frame = new AdminLogin();
-					frame.setVisible(true);
-				} catch (Exception e) {
-					e.printStackTrace();
-				}
-			}
-		});
-	}
+//	public static void main(String[] args) {
+//		EventQueue.invokeLater(new Runnable() {
+//			public void run() {
+//				try {
+//					AdminLogin frame = new AdminLogin();
+//					frame.setVisible(true);
+//				} catch (Exception e) {
+//					e.printStackTrace();
+//				}
+//			}
+//		});
+//	}
 
 	public AdminLogin() {
 		setTitle("Admin Login");

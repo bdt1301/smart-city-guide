@@ -34,18 +34,18 @@ public class EditData extends JFrame {
 	private String[] placeCategories = { "Health Facility", "Tourist Attraction", "Public Utilities",
 			"Hotel - Restaurant", "Educational Facility", "Shopping Location" };
 
-	public static void main(String[] args) {
-		EventQueue.invokeLater(new Runnable() {
-			public void run() {
-				try {
-					EditData frame = new EditData("place", "name");
-					frame.setVisible(true);
-				} catch (Exception e) {
-					e.printStackTrace();
-				}
-			}
-		});
-	}
+//	public static void main(String[] args) {
+//		EventQueue.invokeLater(new Runnable() {
+//			public void run() {
+//				try {
+//					EditData frame = new EditData("place", "name");
+//					frame.setVisible(true);
+//				} catch (Exception e) {
+//					e.printStackTrace();
+//				}
+//			}
+//		});
+//	}
 
 	public EditData(String place, String name) {
 		setTitle("EditData");

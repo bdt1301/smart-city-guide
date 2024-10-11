@@ -14,22 +14,11 @@ Khách sạn Winston Hotel Riverside
 1/1 Đường số 2, phường Linh Đông, TP Thủ Đức.
 https://www.facebook.com/winstonhotelthuduc/
 Đây là một khách sạn 3 sao tại Thủ Đức, có vị trí đẹp bên bờ sông Sài Gòn. Khách sạn có nhiều phòng ốc rộng rãi, thoáng mát và có ban công nhìn ra sông. Khách sạn còn có nhà hàng, quán cà phê, phòng họp, phòng tập và hồ bơi
-Public Utilities
-Ngân hàng Vietcombank
-Số 104 Võ Văn Ngân, phường Bình Thọ
-1900 545 413
-Là ngân hàng nhà nước, có mạng lưới giao dịch rộng khắp trong và ngoài nước. Nơi đây cung cấp nhiều dịch vụ tài chính, tiết kiệm, cho vay, thanh toán, chuyển tiền, và thẻ.
-
 Shopping Location
 Chợ Thủ Đức
 Chợ nằm ở cửa ngõ phía đông thành phố, gần ngã tư Thủ Đức
 .
  Đây là một trong ba chợ đầu mối nông sản lớn của thành phố, có lịch sử hơn 200 năm. Bạn có thể mua sắm nhiều loại nông sản, thực phẩm, đồ gia dụng, quần áo… với giá rẻ và chất lượng. Chợ có nét cổ kính trong kiến trúc, là nơi giao lưu văn hóa của người dân nơi đây. 
-Tourist Attraction
-Khu du lịch văn hóa Suối Tiên
-Xa Lộ Hà Nội, phường Tân Phú,TP Thủ Đức
-Giờ mở cửa: 8:00 - 17:00 các ngày trong tuần
-Đây là khu du lịch kết hợp giữa tinh hoa văn hóa và cội nguồn dân tộc Việt Nam. Bạn có thể tham gia nhiều trò chơi hấp dẫn, xem các màn diễn tích cổ tích, chiêm ngưỡng các công trình kiến trúc độc đáo và tận hưởng không khí trong lành của thiên nhiên.
 Hotel - Restaurant
 Nhà hàng Sepia
 1 Khổng Tử, phường Bình Thọ, TP Thủ Đức
@@ -177,12 +166,6 @@ Ngân hàng Techcombank
 Số 278 Trần Não, phường Bình An
 1800 588 822
 Là ngân hàng thương mại cổ phần, có chiến lược phát triển dựa trên công nghệ và khách hàng. Nơi đây cung cấp nhiều dịch vụ tài chính, tiết kiệm, cho vay, thanh toán, thẻ, và bảo hiểm.
-Public Utilities
-Công ty thu gom rác thải tại Thủ Đức
-Số 12, đường số 2, khu phố 2, phường Hiệp Bình Phước, thành phố Thủ Đức.
-0909 123 456
-Là công ty về môi trường chuyên cung cấp các dịch vụ về thu gom rác thải và thu mua phế liệu. Nơi đây có đội ngũ nhân viên chuyên nghiệp, thiết bị hiện đại, và chính sách ưu đãi cho khách hàng.
-Website: https://thugomrac.com/cong-ty-thu-gom-rac-thai-tai-thu-duc
 Tourist Attraction
 Khu du lịch The BCR
 191 đường Tam Đa, phường Trường Thạnh, TP Thủ Đức, TP.HCM.
@@ -250,3 +233,20 @@ Nhà hàng bia thủ công Bavaria
 1/1 Đường số 1, phường Linh Chiểu, TP Thủ Đức
 0908 996 782
 Đây là một nhà hàng bia thủ công độc đáo và hấp dẫn tại Thủ Đức, nơi bạn có thể thưởng thức những loại bia được ủ theo công thức truyền thống của Đức. Nhà hàng có không gian mở, thoáng mát và có sân khấu biểu diễn âm nhạc sống động. Bạn cũng có thể thử các món ăn Âu, Á, Việt tại đây.
+Tourist Attraction
+Khu du lịch văn hóa Suối Tiên
+Xa Lộ Hà Nội, phường Tân Phú,TP Thủ Đức
+Giờ mở cửa: 8:00 - 17:00 các ngày trong tuần
+Đây là khu du lịch kết hợp giữa tinh hoa văn hóa và cội nguồn dân tộc Việt Nam. Bạn có thể tham gia nhiều trò chơi hấp dẫn, xem các màn diễn tích cổ tích, chiêm ngưỡng các công trình kiến trúc độc đáo và tận hưởng không khí trong lành của thiên nhiên.
+
+Public Utilities
+Ngân hàng Vietcombank
+Số 104 Võ Văn Ngân, phường Bình Thọ
+1900 545 413
+Là ngân hàng nhà nước, có mạng lưới giao dịch rộng khắp trong và ngoài nước. Nơi đây cung cấp nhiều dịch vụ tài chính, tiết kiệm, cho vay, thanh toán, chuyển tiền, và thẻ.
+Public Utilities
+Công ty thu gom rác thải tại Thủ Đức
+Số 12, đường số 2, khu phố 2, phường Hiệp Bình Phước, thành phố Thủ Đức
+0909 123 456
+Là công ty về môi trường chuyên cung cấp các dịch vụ về thu gom rác thải và thu mua phế liệu. Nơi đây có đội ngũ nhân viên chuyên nghiệp, thiết bị hiện đại, và chính sách ưu đãi cho khách hàng.
+

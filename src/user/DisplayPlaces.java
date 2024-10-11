@@ -8,7 +8,6 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 
-import java.awt.EventQueue;
 import java.awt.Image;
 import javax.swing.JButton;
 import javax.swing.ImageIcon;
@@ -32,18 +31,18 @@ public class DisplayPlaces extends JFrame {
 	private String[] placeStrings = { "Health Facility", "Tourist Attraction", "Public Utilities", "Hotel - Restaurant",
 			"Educational Facility", "Shopping Location" };
 
-	public static void main(String[] args) {
-		EventQueue.invokeLater(new Runnable() {
-			public void run() {
-				try {
-					DisplayPlaces frame = new DisplayPlaces("place", "name");
-					frame.setVisible(true);
-				} catch (Exception e) {
-					e.printStackTrace();
-				}
-			}
-		});
-	}
+//	public static void main(String[] args) {
+//		EventQueue.invokeLater(new Runnable() {
+//			public void run() {
+//				try {
+//					DisplayPlaces frame = new DisplayPlaces("place", "name");
+//					frame.setVisible(true);
+//				} catch (Exception e) {
+//					e.printStackTrace();
+//				}
+//			}
+//		});
+//	}
 
 	public DisplayPlaces(String place, String name) {
 		setTitle("DisplayPlaces");
